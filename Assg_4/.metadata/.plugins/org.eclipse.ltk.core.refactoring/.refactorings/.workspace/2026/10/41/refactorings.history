@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Assg4_Q2_Systick/Drivers/Drivers&apos;" deleteContents="false" description="Delete resource &apos;Assg4_Q2_Systick/Drivers/Drivers&apos;" element1="/Assg4_Q2_Systick/Drivers/Drivers" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1791177523892"/>&#x0A;<refactoring comment="Delete resource &apos;Assg4_Q2_Systick&apos;" deleteContents="false" description="Delete resource &apos;Assg4_Q2_Systick&apos;" element1="/Assg4_Q2_Systick" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1791178143150"/>
+</session>

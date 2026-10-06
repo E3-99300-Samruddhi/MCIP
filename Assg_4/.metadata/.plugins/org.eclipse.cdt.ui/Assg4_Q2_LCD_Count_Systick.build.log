@@ -1,0 +1,10 @@
+11:06:43 **** Incremental Build of configuration Debug for project Assg4_Q2_LCD_Count_Systick ****
+make -j8 all 
+arm-none-eabi-size  Assg4_Q2_LCD_Count_Systick.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13508	     92	   2100	  15700	   3d54	Assg4_Q2_LCD_Count_Systick.elf
+Finished building: default.size.stdout
+ 
+
+11:06:43 Build Finished. 0 errors, 0 warnings. (took 141ms)
+

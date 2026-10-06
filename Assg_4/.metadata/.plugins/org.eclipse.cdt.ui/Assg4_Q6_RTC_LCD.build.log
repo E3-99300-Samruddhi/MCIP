@@ -1,0 +1,10 @@
+11:24:59 **** Incremental Build of configuration Debug for project Assg4_Q6_RTC_LCD ****
+make -j8 all 
+arm-none-eabi-size  Assg4_Q6_RTC_LCD.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13988	     92	   2020	  16100	   3ee4	Assg4_Q6_RTC_LCD.elf
+Finished building: default.size.stdout
+ 
+
+11:24:59 Build Finished. 0 errors, 0 warnings. (took 132ms)
+
