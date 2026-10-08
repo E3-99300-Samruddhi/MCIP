@@ -1,0 +1,10 @@
+16:13:44 **** Incremental Build of configuration Debug for project Assg4_Q1 ****
+make -j8 all 
+arm-none-eabi-size  Assg4_Q1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14172	     92	   2060	  16324	   3fc4	Assg4_Q1.elf
+Finished building: default.size.stdout
+ 
+
+16:13:44 Build Finished. 0 errors, 0 warnings. (took 77ms)
+
